@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EmulatorInputTask1 : MonoBehaviour
+public class EmulatorInputTask4 : MonoBehaviour
 {
     Vector3 last;
     Vector3 delta;
